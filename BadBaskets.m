@@ -1,0 +1,1 @@
+BadBatch:=[X : X in Fano3DB | GCD([P`r : P in X`basket`points]) eq 1];
